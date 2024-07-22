@@ -1,6 +1,8 @@
 node_modules
 .env
 
+
+
 # Hardhat files
 /cache
 /artifacts
@@ -18,4 +20,7 @@ ignition/deployments/chain-31337
 
 # Parcel-cache
 .parcel-cache
-/.parcel-cache
+/.parcel-
+
+#package-lock
+/package-lock.json
