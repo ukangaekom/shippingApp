@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^2.12.0",
-    "node":"^20.11.1"
+    "parcel": "^2.12.0"
   },
   "devDependencies": {
     "ethers": "^6.13.1"
